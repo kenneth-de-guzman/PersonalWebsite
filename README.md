@@ -1,6 +1,7 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Personal Website
 
+TECH:
+HTML5/CSS3/jquery/Bootstrap4 
 
 
 
